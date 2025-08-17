@@ -1,0 +1,40 @@
+/* Reset basic styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#maintitle {
+    font-weight: bold;
+    color: firebrick;
+    text-align: center;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+
+.links {
+    color: green;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    border: 2px solid blue;
+    display: block;
+}
+
+.rectitle {
+    color: deeppink;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    text-decoration: underline dotted;
+}
+
+.image {
+    width: 20cm;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
